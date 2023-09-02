@@ -8,7 +8,7 @@
 It's my third year in Fuzhou University.It's pity that what I learn is too few.So the priority I'm in here is to learn something useful to improve me.
 
 #### What I learned now
-C++, Html, Css, Javascript.
+C++, Html, Css and little Javascript.
 
 #### What I want to learn
 - How to develop some useful software in C++.
