@@ -14,6 +14,10 @@ C++, Html, Css, Javascript.
 - How to develop some useful software in C++.
 - How to combine the front and back ends.
 
+#### Future outlook
+- Be a Graduate student to learn more.
+- Learn how to develop software.
+- Learn more programming languages.
 
 <!---
 luckzhp/luckzhp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
